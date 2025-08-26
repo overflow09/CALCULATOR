@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+
+
+}
+
+#answer{
+
+    margin-top: 32px;
+    color: black;
+}
+
+.container {
+    text-align: center;
+    color: antiquewhite;
+    background-color: rgb(148, 215, 131);
+    padding: 20px;
+    border-radius: 10px;
+    width: 50%;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    background-color:rgb(70, 68, 68);
+    color: white;
+    border-radius: 5px;
+    font-size: large;
+    
+
+}
